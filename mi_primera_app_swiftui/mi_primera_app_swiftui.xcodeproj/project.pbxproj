@@ -11,6 +11,7 @@
 		FB7B5DEA2D68EE57009A8BAB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7B5DE92D68EE57009A8BAB /* ContentView.swift */; };
 		FB7B5DEC2D68EE58009A8BAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB7B5DEB2D68EE58009A8BAB /* Assets.xcassets */; };
 		FB7B5DEF2D68EE58009A8BAB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB7B5DEE2D68EE58009A8BAB /* Preview Assets.xcassets */; };
+		FB9AF5272D6CD41700D1299B /* mi_primera_pantalla.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB9AF5262D6CD41700D1299B /* mi_primera_pantalla.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		FB7B5DE92D68EE57009A8BAB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FB7B5DEB2D68EE58009A8BAB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB7B5DEE2D68EE58009A8BAB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FB9AF5262D6CD41700D1299B /* mi_primera_pantalla.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mi_primera_pantalla.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		FB7B5DE62D68EE57009A8BAB /* mi_primera_app_swiftui */ = {
 			isa = PBXGroup;
 			children = (
+				FB9AF5262D6CD41700D1299B /* mi_primera_pantalla.swift */,
 				FB7B5DE72D68EE57009A8BAB /* mi_primera_app_swiftuiApp.swift */,
 				FB7B5DE92D68EE57009A8BAB /* ContentView.swift */,
 				FB7B5DEB2D68EE58009A8BAB /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			files = (
 				FB7B5DEA2D68EE57009A8BAB /* ContentView.swift in Sources */,
 				FB7B5DE82D68EE57009A8BAB /* mi_primera_app_swiftuiApp.swift in Sources */,
+				FB9AF5272D6CD41700D1299B /* mi_primera_pantalla.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
